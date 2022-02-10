@@ -1,4 +1,4 @@
-## Hola! 🙋‍♂️
+# Hola! 🙋‍♂️
 
 #### I'm Óscar, a software engineer in NYC.
 
@@ -8,8 +8,21 @@
 - 💡 Ask me about lighting technologies and lighting control systems!
 - ⚡ Fun fact: I took an 11-year detour designing architectural lighting before returning to my engineering calling.
 
+## Check out some of my apps!
 
-<h2>(∩｀-´)⊃━☆ﾟ.*･｡ﾟ</h2>
+### Fabulous Fred
+
+A memory game inspired by the ultimate electronic game from the 1980s 🕹👾
+
+https://fabulous-fred.osadezu.com/ - [[on GitHub](https://github.com/osadezu/fabulous-fred)]
+
+### Lazy Cupid
+
+An app to fulfill your sweetheart's V-Day expectations in seconds 💘🐈⏱ _(relationship success not guaranteed)_
+
+https://lazy-cupid.osadezu.com/ - [[on GitHub](https://github.com/osadezu/lazy-cupid)]
+
+## (∩｀-´)⊃━☆ﾟ.*･｡ﾟ
 
 <p>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
