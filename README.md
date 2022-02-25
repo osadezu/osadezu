@@ -10,17 +10,23 @@
 
 ## Check out some of my apps!
 
-### Fabulous Fred
+### PizzaParty
 
-A memory game inspired by the ultimate electronic game from the 1980s 🕹👾
+A fast and easy way to for new remote teams to break the zoom ice 🍕
 
-https://fabulous-fred.osadezu.com/ - [[on GitHub](https://github.com/osadezu/fabulous-fred)]
+https://pizza-party.osadezu.com/ - [[on GitHub](https://github.com/osadezu/pizza-party)]
 
 ### Lazy Cupid
 
 An app to fulfill your sweetheart's V-Day expectations in seconds 💘🐈⏱ _(relationship success not guaranteed)_
 
 https://lazy-cupid.osadezu.com/ - [[on GitHub](https://github.com/osadezu/lazy-cupid)]
+
+### Fabulous Fred
+
+A memory game inspired by the ultimate electronic game from the 1980s 🕹👾
+
+https://fabulous-fred.osadezu.com/ - [[on GitHub](https://github.com/osadezu/fabulous-fred)]
 
 ## (∩｀-´)⊃━☆ﾟ.*･｡ﾟ
 
