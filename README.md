@@ -1,6 +1,6 @@
 ## Hola! 🙋‍♂️
 
-#### I'm Óscar, a software engineer in NYC. More about me at [osadezu.com](https://osadezu.com/)
+### I'm Óscar, a software engineer in NYC. More about me at [osadezu.com](https://osadezu.com/)
 
 - 🌱 I'm currently learning TypeScript, Django, Swift for iOS, and how to wrestle with Home Assistant.
 - 🔭 I'm exploring embedded system design and low-level MCU programming.
