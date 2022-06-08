@@ -1,6 +1,6 @@
-## Hola! 🙋‍♂️ I'm Óscar, a software engineer in NYC. More about me at [osadezu.com](https://osadezu.com/)
+## Hola! 🙋‍♂️ I'm Óscar
 
-### Check out some of my apps!
+### Check out some of my apps! 👇 More about me at [osadezu.com](https://osadezu.com/)
 
 ### PizzaParty
 
